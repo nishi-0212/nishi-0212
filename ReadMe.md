@@ -24,8 +24,7 @@ Welcome to my GitHub! 🚀
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%230C55A5.svg?style=for-the-badge&logo=plotly&logoColor=white)  ![Seaborn](https://img.shields.io/badge/Seaborn-%231A6E9C.svg?style=for-the-badge&logo=seaborn&logoColor=white)  
 
 ### Tools  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)  ![VS Code](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  ![Google Colab](https://img.shields.io/badge/Colab-F9AB00.svg?style=for-the-badge&logo=googlecolab&color=525252)  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)  ![VS Code](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  ![Google Colab](https://img.shields.io/badge/Colab-F9AB00.svg?style=for-the-badge&logo=googlecolab&color=525252)  
 ---
 
 ## 📌 Featured Projects  
