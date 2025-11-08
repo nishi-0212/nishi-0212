@@ -30,8 +30,8 @@ Welcome to my GitHub! 🚀
 ## 📌 Featured Projects  
 - **[ChurnShield](https://github.com/nishi-0212/ChurnShield):**  
   A customer churn prediction project that uses **machine learning and Explainable AI (XAI)** to predict which customers are likely to churn and explain the reasoning behind the model’s predictions.
-- **Alzheimer’s Detection with XAI (Work in Progress):**  
-  Building a deep learning model with **Explainable AI** for early Alzheimer’s detection from medical images.  
+- **[MedXplain](https://github.com/nishi-0212/MedXplain):**  
+  Medical Image Disease Prediction using Explainable AI (XAI).  
 
 ---
 
