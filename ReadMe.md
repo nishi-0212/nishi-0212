@@ -28,10 +28,11 @@ Welcome to my GitHub! 🚀
 ---
 
 ## 📌 Featured Projects  
+- **[MedXplain](https://github.com/nishi-0212/MedXplain):**  
+  MedXplain presents a deep learning–based approach for automated disease detection from medical images, augmented with Explainable AI (XAI) methods to provide post-hoc interpretability. The framework enables visualization of salient image regions contributing to classification outcomes, facilitating model validation and clinical insight. The proposed approach emphasizes explainability alongside accuracy, supporting responsible and interpretable medical AI systems. 
 - **[ChurnShield](https://github.com/nishi-0212/ChurnShield):**  
   A customer churn prediction project that uses **machine learning and Explainable AI (XAI)** to predict which customers are likely to churn and explain the reasoning behind the model’s predictions.
-- **[MedXplain](https://github.com/nishi-0212/MedXplain):**  
-  Medical Image Disease Prediction using Explainable AI (XAI).  
+
 
 ---
 
