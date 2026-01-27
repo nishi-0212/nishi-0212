@@ -29,9 +29,11 @@ Welcome to my GitHub! 🚀
 
 ## 📌 Featured Projects  
 - **[MedXplain](https://github.com/nishi-0212/MedXplain):**  
-  MedXplain presents a deep learning–based approach for automated disease detection from medical images, augmented with Explainable AI (XAI) methods to provide post-hoc interpretability. The framework enables visualization of salient image regions contributing to classification outcomes, facilitating model validation and clinical insight. The proposed approach emphasizes explainability alongside accuracy, supporting responsible and interpretable medical AI systems. 
+  **MedXplain** is a **research-oriented medical image analysis framework** that applies **deep learning** for **automated disease classification** from medical images. The project integrates **Explainable Artificial Intelligence (XAI)** techniques to generate **interpretable visual explanations**, highlighting **clinically relevant regions** that influence model predictions.  
+The primary objective of this work is to enhance **model transparency**, **interpretability**, and **clinical trust**, addressing a critical requirement for the adoption of AI systems in **healthcare and medical imaging** applications.
 - **[ChurnShield](https://github.com/nishi-0212/ChurnShield):**  
-  A customer churn prediction project that uses **machine learning and Explainable AI (XAI)** to predict which customers are likely to churn and explain the reasoning behind the model’s predictions.
+  **ChurnShield** is a **deployed machine learning application** designed for **customer churn prediction** in real-world business environments. The system combines **predictive modeling** with **Explainable Artificial Intelligence (XAI)** to provide **feature-level explanations** that justify churn risk predictions.  
+Developed with a **production-focused perspective**, the project supports **real-time inference** and enables **data-driven decision-making** for customer retention while ensuring **transparency and accountability** in model outputs.
 
 
 ---
