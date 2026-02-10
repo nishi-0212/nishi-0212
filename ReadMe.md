@@ -1,42 +1,109 @@
-# Hi there, I'm Nishi 👋  
+# Hi there, I'm Nishi✨
 
 Welcome to my GitHub! 🚀  
 
-🎓 **Final Year B.Tech Student (ECE-AI)**  
-🔧 Aspiring **Machine Learning Engineer** | **AI & Data Science Enthusiast**   
-🌍 Based in Delhi, India  
+I am am final-year B.Tech student (ECE with AI) who enjoys building **reliable, explainable, and data-driven ML systems** — and questioning models when they sound *too confident* 👀  
+My interests span **Machine Learning, Data Science, CV, NLP, and LLM evaluation**, with a strong inclination towards research.
+
+📍 Delhi, India  
+🎓 IGDTUW  
+🧠 ML | Data Science | Computer Vision | Natural Language Processing
+
 
 ---
 
 ## 💫 About Me  
-- 💡 Passionate about building **AI-powered solutions** that solve real-world problems.  
-- 🌱 Currently exploring **Deep Learning, Computer Vision, and Explainable AI (XAI)**.  
+- 💡 Interested in **research-driven Machine Learning and Data Science**
+- 👁️ Enjoy working on **Computer Vision problems** involving representation learning and interpretability
+- 🔍 Curious about **model behavior, evaluation, and reliability**
+- 📊 Comfortable working end-to-end with data — from analysis to modeling to insights
+- 🌱 Passionate about building **AI-powered solutions** that solve real-world problems. 
 - 🗺️ Fun fact: My itineraries are more detailed than a research paper, but still crowd-free.   
 
 ---
 
 ## 🔧 Tech Stack  
 
-### Languages  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
+### 🧩 Languages
+![Python](https://img.shields.io/badge/Python-blue)
+![C++](https://img.shields.io/badge/C++-blue)
+![SQL](https://img.shields.io/badge/SQL-lightgrey)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange)  
 
-### Libraries & Frameworks  
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%230C55A5.svg?style=for-the-badge&logo=plotly&logoColor=white)  ![Seaborn](https://img.shields.io/badge/Seaborn-%231A6E9C.svg?style=for-the-badge&logo=seaborn&logoColor=white)  
+### 🧠 Machine Learning & Deep Learning
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Modeling%20%26%20Evaluation-blue)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-CNNs%20%26%20Neural%20Networks-purple)
 
-### Tools  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)  ![VS Code](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  ![Google Colab](https://img.shields.io/badge/Colab-F9AB00.svg?style=for-the-badge&logo=googlecolab&color=525252)  
----
+### 👁️ Computer Vision
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-Image%20Analysis-green)
+![CNN](https://img.shields.io/badge/CNN-VGG%20%7C%20ResNet-success)
+
+### 💬 Natural Language Processing (NLP)
+![NLP](https://img.shields.io/badge/NLP-Text%20%26%20Transformers-orange)
+![LLM](https://img.shields.io/badge/LLM-Evaluation%20%26%20Reliability-red)
+
+### 🔍 Explainable AI (XAI)
+![XAI](https://img.shields.io/badge/XAI-Model%20Interpretability-yellow)
+![GradCAM](https://img.shields.io/badge/Grad--CAM-Visual%20Explanations-lightgrey)
+
+### 📊 Data Science
+![Data Science](https://img.shields.io/badge/Data%20Science-EDA%20%26%20Insights-blueviolet)
+![Statistics](https://img.shields.io/badge/Statistics-Analysis-lightblue)
+
+
+
+### 🧰 Libraries & Frameworks
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![PyTorch](https://img.shields.io/badge/PyTorch-red?logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?logo=tensorflow)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-blue?logo=scikit-learn)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-yellow?logo=huggingface)
+![FAISS](https://img.shields.io/badge/FAISS-Vector%20Search-lightgrey)
+
+
+
+### ⚙️ Data & Dev Tools
+![NumPy](https://img.shields.io/badge/NumPy-blue?logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-purple?logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-yellow)
+![Seaborn](https://img.shields.io/badge/Seaborn-lightblue)
+
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
+![VS Code](https://img.shields.io/badge/VS%20Code-blue?logo=visualstudiocode)
+![Jupyter](https://img.shields.io/badge/JupyterLab-orange?logo=jupyter)
+![Colab](https://img.shields.io/badge/Google%20Colab-grey?logo=googlecolab)
+
 
 ## 📌 Featured Projects  
-- **[MedXplain](https://github.com/nishi-0212/MedXplain):**  
-  **MedXplain** is a **research-oriented medical image analysis framework** that applies **deep learning** for **automated disease classification** from medical images. The project integrates **Explainable Artificial Intelligence (XAI)** techniques to generate **interpretable visual explanations**, highlighting **clinically relevant regions** that influence model predictions.  
-The primary objective of this work is to enhance **model transparency**, **interpretability**, and **clinical trust**, addressing a critical requirement for the adoption of AI systems in **healthcare and medical imaging** applications.
-- **[ChurnShield](https://github.com/nishi-0212/ChurnShield):**  
-  **ChurnShield** is a **deployed machine learning application** designed for **customer churn prediction** in real-world business environments. The system combines **predictive modeling** with **Explainable Artificial Intelligence (XAI)** to provide **feature-level explanations** that justify churn risk predictions.  
-Developed with a **production-focused perspective**, the project supports **real-time inference** and enables **data-driven decision-making** for customer retention while ensuring **transparency and accountability** in model outputs.
+### 🧠 Explainable Medical Imaging System (MedXplain)
+- Built deep learning pipelines for image classification with a focus on **interpretability and model transparency**
+- Applied explainability techniques such as **Grad-CAM++ and Score-CAM** to analyze CNN decision-making
+- Explored responsible AI practices in **high-stakes Computer Vision applications**
 
+🔗 Repo: https://github.com/nishi-0212/MedXplain
 
 ---
+
+### 🔍 LLM Hallucination Detection
+- Built an **evidence-grounded evaluation system** to detect hallucinations in LLM-generated responses  
+- Verified claim-level correctness using **semantic retrieval and NLI-based verification**  
+- Designed interpretable verdicts to assess **LLM reliability and trustworthiness**  
+
+🔗 Repo: https://github.com/nishi-0212/LLM-Hallucination-Checker  
+
+---
+
+## 📌 Research
+🌾 **Smart Crop Recommendation System**  
+- Research paper accepted  
+- Implemented and compared multiple ML models (SVM, Random Forest, Gradient Boosting, MLP)  
+- Achieved **98.4% accuracy** and derived data-driven insights for optimal decision-making  
+
+---
+
+
+
+
 
 ## 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishi-vishwakarma-378b8625b/)  
@@ -44,4 +111,5 @@ Developed with a **production-focused perspective**, the project supports **real
 
 ---
 
-_✨ Figuring out life like I plan trips — detailed, exciting, and a little unpredictable._
+⭐ *Curious about data, cautious about conclusions, and always learning.*
+
